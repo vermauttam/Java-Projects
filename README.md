@@ -23,10 +23,10 @@ Payment Tracking: Track payments received and outstanding balances for invoices.
 Report Generation: Generate sales and customer reports.
 Export Options: Export invoices and reports as PDF or CSV files.
 # Technologies
-Programming Language: Java (JDK 11 or higher)
-GUI Framework: JavaFX or Swing (choose one based on your project requirements)
-Database: MySQL or SQLite (depending on whether you need a networked or local database)
+Programming Language: Java 
+GUI Framework: JavaFX or Swing 
+Database: MySQL 
 Libraries:
 JasperReports for creating reports
 iText for PDF export
-Apache POI (if Excel export is needed)
+server-Tomcat apache
