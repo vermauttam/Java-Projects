@@ -1,5 +1,5 @@
 package BillingSoftware;
-// Customer class
+// Customer class 
 class Customer {
     private String name;
     private String email;
