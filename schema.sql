@@ -68,5 +68,3 @@ CREATE TABLE Payments (
     amount DECIMAL(10, 2) NOT NULL,
     FOREIGN KEY (invoice_id) REFERENCES Invoices(invoice_id) ON DELETE CASCADE
 );
-
-
